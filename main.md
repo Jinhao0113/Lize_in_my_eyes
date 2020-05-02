@@ -1,17 +1,17 @@
 # 我眼中的丽泽
 
-![](./xiaohui.jpeg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1geeg4s75y2j30hs0hs0to.jpg)
 
 ## 目录
 
-- [丽泽书院简介](#introduction-of-lize)
+- [美丽的校园](#beautiful-school)
 - [丰富的校园生活](#interesting-school-life)
 - [超好的老师](#very-good-teachers)
-
+- [最后](#the-end)
 
 <div STYLE="page-break-after: always;"></div>
 
-## Introduction of Lize
+## Beautiful school
 
 丽泽书院,坐落在湖海塘畔,目前在金一中内上课,下面是一段来自我们学校同学对我们学校的描写
 
@@ -27,7 +27,7 @@
 
 下面是我们的教学楼图片
 
-![](./jiaoxuelou.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlly1geefv84dl7j30ku0dewg7.jpg)
 
 <div STYLE="page-break-after: always;"></div>
 
@@ -35,7 +35,7 @@
 
 我们学校的校园生活充实而又丰富，在保证学业的同时，每天至少有一个小时的运动，我们有趣的体育老师——化哥
 
-<img src="./tiyulaoshi.jpeg" width="50%" height="60%">
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1geefuv92ozj30u0140tbj.jpg" width="50%" height="60%">
 
 相信所有同学们在体育课上一定被"嘟"折腾过吧，没错，就是20个来回的折返跑。
 
@@ -49,21 +49,44 @@
 
 ## Very good teachers
 
-你是否感受过，数学老师在黑板上画圆不用圆规而和圆规画出的无异
+你是否感受过，数学老师在黑板上画圆不用圆规却圆的不得了
 
-你是否感受过，语文老师将一节语文课上的像激情澎湃的演讲
+<!-- 你是否感受过，语文老师将一节语文课上的像激情澎湃的演讲 -->
 
-你是否感受过，英语老师将一种错误比喻成“狗不识”
+<!-- 你是否感受过，英语老师将一种错误比喻成“狗不识” -->
 
-你是否感受过，科学老师将课本上的实验全在课上做一遍
+<!-- 你是否感受过，科学老师将课本上的实验全在课上做一遍 -->
 
 你是否感受过，社会老师课件里出现了“抖音”
 
 你没有听错，这就是我们的老师，经常让我们佩服的五体投地，让我们捧腹大笑。
 
-作业本上那一个一个大❌的详细解释，认真听取学生的意见和解题思路。
+对作业本上那一个一个大❌的详细解释，认真听取学生的意见和解题思路。
 
-还有整个学校都证不出的神仙证明题在数学老师收下就变成了“几个全等三角形加几条线的组合嘛”
+还有整个学校都证不出的神仙证明题在数学老师手下就变成了“几个全等三角形加几条线的组合”
+
+<!-- ![](https://tva1.sinaimg.cn/large/007S8ZIlly1geegbgyofvj30u00migp2.jpg) -->
+
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1geegbgyofvj30u00migp2.jpg" width="60%" height="50%">
 
 PPT上那诱人的美食，难怪某同学给社会老师起名“美食主播” 
 
+<!-- ![](https://tva1.sinaimg.cn/large/007S8ZIlly1geegd6s077j31c00u04qt.jpg) -->
+
+<img src="https://tva1.sinaimg.cn/large/007S8ZIlly1geegd6s077j31c00u04qt.jpg" width="60%" height="50%">
+
+还有我们那和蔼可亲的胖校长，~~相信同学们一定知道什么叫做“作业最少的学校”~~
+
+还有……
+
+<div STYLE="page-break-after: always;"></div>
+
+## The end
+
+这就是我们的学校——丽泽书院
+
+一所美丽而又有趣的学校
+
+by [lz2019hjh](https://lz2019hjh.github.io)
+
+下载[pdf]()or[markdown]()
