@@ -75,9 +75,7 @@ PPT上那诱人的美食，难怪某同学给社会老师起名“美食主播�
 
 <img src="https://tva1.sinaimg.cn/large/007S8ZIlly1geegd6s077j31c00u04qt.jpg" width="60%" height="50%">
 
-还有我们那和蔼可亲的胖校长，~~相信同学们一定知道什么叫做“作业最少的学校”~~
-
-还有……
+还有我们那和蔼可亲的胖校长，~~相信同学们一定知道什么叫做“作业最少的学校”~~……
 
 <div STYLE="page-break-after: always;"></div>
 
